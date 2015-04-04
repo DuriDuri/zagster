@@ -1,0 +1,785 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"auth",
+				"authenticate"
+			],
+			[
+				"c",
+				"contrib"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"reg",
+				"register_dictionary"
+			],
+			[
+				"hex",
+				"hexfile"
+			],
+			[
+				"ins",
+				"instruction"
+			],
+			[
+				"ea",
+				"eachLine"
+			],
+			[
+				"read",
+				"readfile"
+			],
+			[
+				"instru",
+				"instruction"
+			],
+			[
+				"or",
+				"ori"
+			],
+			[
+				"and",
+				"andi"
+			],
+			[
+				"instr",
+				"instruction"
+			],
+			[
+				"PHot",
+				"PHOTO"
+			],
+			[
+				"by",
+				"BY"
+			],
+			[
+				"A",
+				"Amazing"
+			],
+			[
+				"CO",
+				"comment"
+			],
+			[
+				"COM",
+				"comment_timestamp"
+			],
+			[
+				"Co",
+				"COMMENTS"
+			],
+			[
+				"like",
+				"liked_timestamp"
+			],
+			[
+				"on",
+				"ON"
+			],
+			[
+				"PH",
+				"PHOTO"
+			],
+			[
+				"inner",
+				"INNER"
+			],
+			[
+				"ma",
+				"MAX"
+			],
+			[
+				"B",
+				"BASE_DIR"
+			],
+			[
+				"static",
+				"STATIC_URL"
+			],
+			[
+				"USER",
+				"USERNAME"
+			],
+			[
+				"Photo",
+				"Photo_ID"
+			],
+			[
+				"photo",
+				"Photo_ID"
+			],
+			[
+				"filt",
+				"filter_name"
+			],
+			[
+				"liked",
+				"LIKED"
+			],
+			[
+				"F",
+				"From"
+			],
+			[
+				"g",
+				"Group"
+			],
+			[
+				"l",
+				"l"
+			],
+			[
+				"abdurah",
+				"Abdurahman"
+			],
+			[
+				"P",
+				"Photo_ID"
+			],
+			[
+				"acc",
+				"account_created"
+			],
+			[
+				"pic",
+				"pic_owners_username"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"Phot",
+				"Photo_ID"
+			],
+			[
+				"PIC",
+				"PICTURE"
+			],
+			[
+				"PR",
+				"PROBLEMS"
+			],
+			[
+				"pro",
+				"Problem_ID"
+			],
+			[
+				"pri",
+				"private_image"
+			],
+			[
+				"priva",
+				"private_message"
+			],
+			[
+				"PRI",
+				"PRIMARY"
+			],
+			[
+				"phot",
+				"Photo_ID"
+			],
+			[
+				"PROB",
+				"Problem_ID"
+			],
+			[
+				"pIC",
+				"Picture"
+			],
+			[
+				"dU",
+				"Duri"
+			],
+			[
+				"pHOTO",
+				"Photo_ID"
+			],
+			[
+				"sp",
+				"spam_ID"
+			],
+			[
+				"spa",
+				"SPAM"
+			],
+			[
+				"ACC",
+				"account_number"
+			],
+			[
+				"PAY",
+				"Payment_ID"
+			],
+			[
+				"PAYMENT",
+				"PAYMENT_INFORMATION"
+			],
+			[
+				"duri",
+				"Duri"
+			],
+			[
+				"VA",
+				"VALUES"
+			],
+			[
+				"soc",
+				"social_media_password"
+			],
+			[
+				"soci",
+				"social_media_provider"
+			],
+			[
+				"LI",
+				"LINKED_ACCOUNTS"
+			],
+			[
+				"an",
+				"angle_rotation"
+			],
+			[
+				"FIL",
+				"FILTER"
+			],
+			[
+				"FILT",
+				"filter_name"
+			],
+			[
+				"NO",
+				"no_of_comments"
+			],
+			[
+				"p",
+				"Photo_ID"
+			],
+			[
+				"IN",
+				"INTO"
+			],
+			[
+				"jULIA",
+				"Julia"
+			],
+			[
+				"COMM",
+				"commenter_username"
+			],
+			[
+				"US",
+				"username"
+			],
+			[
+				"com",
+				"commenter_username"
+			],
+			[
+				"T",
+				"TIMESTAMP"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"pR",
+				"Problem_ID"
+			],
+			[
+				"s",
+				"social_media_provider"
+			],
+			[
+				"so",
+				"social_media_username"
+			],
+			[
+				"ph",
+				"Photo_ID"
+			],
+			[
+				"USE",
+				"username"
+			],
+			[
+				"pHO",
+				"Photo_ID"
+			],
+			[
+				"concat",
+				"concatended"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"Por",
+				"ProductImage"
+			],
+			[
+				"ti",
+				"timestamp"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"Pro",
+				"ProductAdmin"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"a",
+				"auto_now_add"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"unit",
+				"unit-val"
+			],
+			[
+				"rai",
+				"raise-exception"
+			],
+			[
+				"expv",
+				"expval"
+			],
+			[
+				"value",
+				"value-of-exp"
+			],
+			[
+				"exp",
+				"expval"
+			],
+			[
+				"num",
+				"num-val"
+			],
+			[
+				"ex",
+				"exp2"
+			],
+			[
+				"bool",
+				"bool-val"
+			],
+			[
+				"cons",
+				"const-false"
+			],
+			[
+				"const-",
+				"const-true"
+			],
+			[
+				"make",
+				"make-init-env"
+			],
+			[
+				"va",
+				"value-of"
+			],
+			[
+				"emp",
+				"empty-env"
+			],
+			[
+				"val",
+				"value-of-exp"
+			],
+			[
+				"def",
+				"deref"
+			],
+			[
+				"new",
+				"newref"
+			],
+			[
+				"extend",
+				"extend-env"
+			],
+			[
+				"proc",
+				"procedure"
+			],
+			[
+				"eva",
+				"eval-prefix"
+			],
+			[
+				"ope",
+				"operand1"
+			],
+			[
+				"oper",
+				"operand1"
+			],
+			[
+				"const",
+				"const-exp"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"ls",
+				"ls2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pet",
+				"SublimeREPL: Petite Chez Scheme"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: repl",
+				"Package Control: Create Package File"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"createOPCode('test.py','hex.hex')",
+			"create",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/iBelongtoDuri/Desktop/Apps/zagster"
+	],
+	"file_history":
+	[
+		"/Users/iBelongtoDuri/Desktop/Apps/srvup/src/srvup/views.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/srvup/src/srvup/urls.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/srvup/src/videos/admin.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/srvup/src/videos/models.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/srvup/src/videos/views.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/srvup/src/templates/home.html",
+		"/Users/iBelongtoDuri/Desktop/Apps/srvup/src/templates/navbar.html",
+		"/Users/iBelongtoDuri/Desktop/Apps/srvup/src/templates/javascript.html",
+		"/Users/iBelongtoDuri/Desktop/Apps/srvup/src/templates/extra_head_info.html",
+		"/Users/iBelongtoDuri/Desktop/Apps/srvup/srvup/srvup/urls.py",
+		"/Users/iBelongtoDuri/Dropbox/Union/Junior Year/Winter/Computer Organization/Labs/Lab 7/linked-list-fixed.asm",
+		"/Users/iBelongtoDuri/Downloads/assembler.py",
+		"/Users/iBelongtoDuri/Documents/Duri Duri/Mac boggle/MaryNell/MaryNell/finalprojectMNC.py",
+		"/Users/iBelongtoDuri/Dropbox/Union/Junior Year/Winter/Computer Organization/Project/helperfunctions.py",
+		"/Users/iBelongtoDuri/Downloads/helperfunctions.py",
+		"/Users/iBelongtoDuri/Dropbox/Union/Junior Year/Winter/Computer Organization/Labs/Lab 4/Lab4.hex",
+		"/Users/iBelongtoDuri/Dropbox/Union/Junior Year/Winter/Databases/Project/Implementation/Queries.sql",
+		"/Users/iBelongtoDuri/Dropbox/Union/Junior Year/Winter/Databases/Project/Implementation/Queries",
+		"/Users/iBelongtoDuri/Dropbox/Union/Junior Year/Winter/Databases/Project/Implementation/Implementation.sql",
+		"/Users/iBelongtoDuri/Dropbox/Union/Junior Year/Winter/Data Mining CS 321/weka-3-6-12/README",
+		"/Users/iBelongtoDuri/Dropbox/Union/Junior Year/Winter/Data Mining CS 321/weka-3-6-12-oracle-jvm.app/Contents/PkgInfo",
+		"/Users/iBelongtoDuri/Dropbox/Union/Junior Year/Winter/Data Mining CS 321/Final Project/Presentation notes.txt",
+		"/Users/iBelongtoDuri/Dropbox/Union/Junior Year/Winter/Data Mining CS 321/Final Project/car.c45-names",
+		"/Users/iBelongtoDuri/Dropbox/Union/Junior Year/Winter/Data Mining CS 321/Final Project/car.data",
+		"/Users/iBelongtoDuri/Dropbox/Union/Junior Year/Winter/Data Mining CS 321/Final Project/wdbc.names",
+		"/Users/iBelongtoDuri/Dropbox/Union/Junior Year/Winter/Data Mining CS 321/Final Project/wpbc.data",
+		"/Users/iBelongtoDuri/Dropbox/Union/Junior Year/Winter/Computer Organization/Labs/Reverse Engineering/password.txt",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Winter/Data Mining CS 321/Final Project/breast-cancer-wisconsin.names",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Winter/Data Mining CS 321/Final Project/breast-cancer-wisconsin.data",
+		"/Users/iBelongtoDuri/Desktop/Reverse Engineering /assembly.txt",
+		"/Users/iBelongtoDuri/Desktop/Reverse Engineering /passwd.hex.txt",
+		"/Users/iBelongtoDuri/Desktop/Reverse Engineering /passwd.hex",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Winter/Computer Organization/Labs/Lab 7/linked-list-fixed.asm",
+		"/Users/iBelongtoDuri/Desktop/Reverse Engineering /assembly_DEFAULT.txt",
+		"/Users/iBelongtoDuri/Desktop/breast-cancer-wisconsin.data",
+		"/Users/iBelongtoDuri/Desktop/breast-cancer-wisconsin.names",
+		"/Users/iBelongtoDuri/Desktop/linked-list-fixed (1).asm",
+		"/Users/iBelongtoDuri/Downloads/LinkedList (2).asm",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Winter/Computer Organization/Homework/Homework 5/recursiveFib.asm",
+		"/Users/iBelongtoDuri/Desktop/query.txt",
+		"/Users/iBelongtoDuri/Desktop/Apps/Duri.im/Duri.im/public/index.html",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Winter/Computer Organization/Homework/Homework 5/fib.asm",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Winter/Computer Organization/Homework/Homework 5/concat.asm",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Winter/Computer Organization/Homework/Homework 5/recursiveFib",
+		"/Users/iBelongtoDuri/Downloads/arrsum copy 2.asm",
+		"/Users/iBelongtoDuri/Desktop/Apps/microblog/app/templates/login.html",
+		"/Users/iBelongtoDuri/Desktop/Apps/microblog/run.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/microblog/app/templates/base.html",
+		"/Users/iBelongtoDuri/Desktop/Apps/microblog/app/templates/index.html",
+		"/Users/iBelongtoDuri/Desktop/Apps/microblog/config.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/microblog/app/views.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/microblog/app/forms.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/microblog/app/models.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/microblog/app/__init__.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/microblog/app/db_create.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/microblog/app/db_migrate.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/microblog/db_downgrade.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/microblog/db_upgrade.py",
+		"/untitled",
+		"/Users/iBelongtoDuri/Desktop/Apps/ecommerce/ecommerce/ecommerce/templates/products/home.html",
+		"/Users/iBelongtoDuri/Desktop/Apps/ecommerce/ecommerce/ecommerce/templates/products/single.html",
+		"/Users/iBelongtoDuri/Desktop/Apps/ecommerce/ecommerce/ecommerce/templates/base.html",
+		"/Users/iBelongtoDuri/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/iBelongtoDuri/Desktop/Apps/ecommerce/ecommerce/ecommerce/products/__init__.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/ecommerce/ecommerce/ecommerce/templates/navbar.html",
+		"/Users/iBelongtoDuri/Desktop/Apps/ecommerce/ecommerce/ecommerce/products/templates/home.html",
+		"/Users/iBelongtoDuri/Desktop/Apps/ecommerce/ecommerce/ecommerce/ecommerce/urls.py",
+		"/Users/iBelongtoDuri/Desktop/Apps/ecommerce/ecommerce/ecommerce/db.sqlite3",
+		"/Users/iBelongtoDuri/Desktop/Apps/ecommerce/ecommerce/ecommerce/ecommerce/__init__.py",
+		"/Users/iBelongtoDuri/Downloads/CONT-interp.ss",
+		"/Users/iBelongtoDuri/Downloads/CONT-interp-string.ss",
+		"/Users/iBelongtoDuri/Desktop/7.ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/Homework 7/hw7-starter.ss",
+		"/Volumes/HOME/Documents/hw7/hw7.ss",
+		"/Users/iBelongtoDuri/Desktop/Final exam notes.ss",
+		"/Users/iBelongtoDuri/Downloads/soln3-1 (1).ss",
+		"/Users/iBelongtoDuri/Downloads/HW5.SS",
+		"/Users/iBelongtoDuri/Downloads/hw5-Duri (2).ss",
+		"/Users/iBelongtoDuri/Downloads/;; hw5-normal-soln.ss",
+		"/Users/iBelongtoDuri/Desktop/5.ss",
+		"/Users/iBelongtoDuri/Downloads/REF-interp-partial.ss",
+		"/Users/iBelongtoDuri/Desktop/hw6-duri.ss",
+		"/Users/iBelongtoDuri/Desktop/PL.ss",
+		"/Users/iBelongtoDuri/Desktop/hw5-Duri.ss",
+		"/Users/iBelongtoDuri/Desktop/PL",
+		"/Users/iBelongtoDuri/Downloads/hw5-starter-tomaselli.ss",
+		"/Users/iBelongtoDuri/Desktop/hw5-starter.ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/Homework 5/hw5-starter.ss",
+		"/Users/iBelongtoDuri/Downloads/PROC-interp2.ss",
+		"/Users/iBelongtoDuri/Downloads/prefix-interp.ss",
+		"/Users/iBelongtoDuri/Desktop/hw4.ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/Homework 4/Scheme-data.ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/Homework 4/rec-data.ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/Homework 4/parse-datatype.ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/Homework 4/parse-no-datatype.ss",
+		"/Users/iBelongtoDuri/Downloads/grammars_final (1).ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/Midterm Exam 1",
+		"/Users/iBelongtoDuri/Downloads/recursion_examples_part2 (1).ss",
+		"/Users/iBelongtoDuri/Downloads/grammars.ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/recursion_examples.ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/10:1.ss",
+		"/Users/iBelongtoDuri/Downloads/hw2-2.ss",
+		"/Users/iBelongtoDuri/Downloads/hw2-3.ss",
+		"/Users/iBelongtoDuri/Downloads/recursion_examples (1).ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/10:3 Environments",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/Homework 3/hw3-2.ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/Homework 3/hw3-1.ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/Homework 3/hw3-3.ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/Homework 3/tester.ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/Homework 2/hw2-2.ss",
+		"/Users/iBelongtoDuri/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/iBelongtoDuri/Downloads/recursion_examples_part2.ss",
+		"/Users/iBelongtoDuri/Downloads/grammars_version2.ss",
+		"/Users/iBelongtoDuri/Google Drive/Union/Junior Year/Fall/CSC - Programming Languages/recursion_examples_part2.ss",
+		"/Users/iBelongtoDuri/Downloads/hw1.ss",
+		"/Users/iBelongtoDuri/Desktop/EOPL-Scheme/define-datatype.scm",
+		"/Users/iBelongtoDuri/Desktop/Duri.im/Duri.im/public/index.html",
+		"/Users/iBelongtoDuri/Desktop/Duri.im/Duri.im/public/mail/contact_me.php",
+		"/Users/iBelongtoDuri/Desktop/Duri.im/Duri.im/public/js/contact_me.js",
+		"/Users/iBelongtoDuri/Desktop/Duri.im/Duri.im/public/js/emailer.js",
+		"/Users/iBelongtoDuri/Desktop/Duri.im/Duri.im/cloud/main.js",
+		"/Users/iBelongtoDuri/Desktop/freelancer 2/index.html",
+		"/Users/iBelongtoDuri/Downloads/froxCZ-union-trolley-aceea4a4c328/src/main/java/cz/whz/frox/uniontrolley/MapActivity.java",
+		"/Users/iBelongtoDuri/Desktop/iOS/OutOfThisWorld/OutOfThisWorld/VONOuterSpaceTableViewController.m",
+		"/Users/iBelongtoDuri/Downloads/froxCZ-union-places-dining-be697174eb68/Union Dining/src/main/java/cz/whz/frox/uniondining/support/MealMenuProvider.java",
+		"/Users/iBelongtoDuri/Downloads/froxCZ-union-places-dining-be697174eb68/Union Dining/src/main/java/cz/whz/frox/uniondining/support/MenuListAdapter.java",
+		"/Users/iBelongtoDuri/Downloads/froxCZ-union-places-dining-be697174eb68/Union Dining/src/main/java/cz/whz/frox/uniondining/models/Meal.java",
+		"/Users/iBelongtoDuri/Downloads/froxCZ-union-places-dining-be697174eb68/Union Dining/src/main/java/cz/whz/frox/uniondining/models/MealMenu.java"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"after_",
+			"double-store",
+			"transfer-ls",
+			"transfer-lists",
+			"transfer-ls",
+			"gc-trace",
+			"vars",
+			"proc-exp",
+			"procedure",
+			"num-val",
+			"env*",
+			"apply-env",
+			"expval->",
+			"expval_>",
+			"num-val",
+			"numb-val"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"double-store-size",
+			"list-transfer",
+			"transfer-ls"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "/zagster-demo.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
