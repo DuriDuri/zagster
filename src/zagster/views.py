@@ -3,5 +3,7 @@ from django.http import HttpResponseRedirect
 
 
 def home(request):
-	context {}
+	context = {
+		"the_name": 6,
+	}
 	return render(request, "home.html", context) 
