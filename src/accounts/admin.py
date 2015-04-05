@@ -3,7 +3,8 @@ from django.contrib import admin
 from django.contrib.auth.models import Group
 from django.contrib.auth.admin import UserAdmin
 from django.contrib.auth.forms import ReadOnlyPasswordHashField
-
+from .forms import UserChangeForm, UserCreationForm
+from .models import MyUser
 # Register your models here.
 
 class MyUserAdmin(UserAdmin):
@@ -14,11 +15,11 @@ class MyUserAdmin(UserAdmin):
     # The fields to be used in displaying the User model.
     # These override the definitions on the base UserAdmin
     # that reference specific fields on auth.User.
-    list_display = ('email', 'date_of_birth', 'is_admin')
+    list_display = ('email', 'username','phone_number', 'is_admin')
     list_filter = ('is_admin',)
     fieldsets = (
         (None, {'fields': ('email', 'password')}),
-        ('Personal info', {'fields': ('date_of_birth',)}),
+        ('Personal info', {'fields': ('first_name','last_name')}),
         ('Permissions', {'fields': ('is_admin',)}),
     )
     # add_fieldsets is not a standard ModelAdmin attribute. UserAdmin
@@ -26,10 +27,10 @@ class MyUserAdmin(UserAdmin):
     add_fieldsets = (
         (None, {
             'classes': ('wide',),
-            'fields': ('email', 'date_of_birth', 'password1', 'password2')}
+            'fields': ('email', 'password1', 'password2')}
         ),
     )
-    search_fields = ('email',)
+    search_fields = ('email','username', 'first_name', 'last_name', 'phone_number',)
     ordering = ('email',)
     filter_horizontal = ()
 
