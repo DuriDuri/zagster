@@ -1,6 +1,8 @@
-# zagster-demo
+zagster-demo
 
-Welcome to Taskify!
+# Welcome to Taskify!
+
+
 Taskify connects you and those around you to help get stuff done. Simple. No need to worry about bothering your friends. Need a task done, Taskify has got you covered. Submit a task today and find someone in your neighborhood to take you up on your offer.
 
 
