@@ -1,6 +1,5 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from django.http import HttpResponseRedirect
-
 from accounts.forms import RegisterForm
 from accounts.models import MyUser
 
@@ -16,15 +15,18 @@ def register(request):
 		username = form.cleaned_data['username']
 		email = form.cleaned_data['email']
 		password = form.cleaned_data['password2']
+		phone_number = form.cleaned_data['phone_number']
 		new_user = MyUser()
 		new_user.username = username
 		new_user.email = email
-		new_user.set_password(password) #RIGHT
+		new_user.set_password(password) 
+		new_user.phone_number = phone_number
 		new_user.save()
 
+		#Test
 		all_entries = MyUser.objects.all()
 		print all_entries
-		print "Test"
+		return redirect('/')
 
 	context = {
 		"form": form,

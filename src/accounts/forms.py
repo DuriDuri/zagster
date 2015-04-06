@@ -1,12 +1,16 @@
 from django import forms
+from django.core.validators import RegexValidator
 from django.contrib.auth.forms import ReadOnlyPasswordHashField
 from .models import MyUser
 
 class RegisterForm(forms.Form):
     username = forms.CharField()
+    phone_regex = RegexValidator(regex=r'^\+?1?\d{9,15}$', message="Phone number must be entered in the format: '+999999999'. Up to 15 digits allowed.")
+    phone_number = forms.CharField(validators=[phone_regex]) 
     email = forms.EmailField()
     password1 = forms.CharField(label='Password', widget=forms.PasswordInput)
     password2 = forms.CharField(label='Password confirmation', widget=forms.PasswordInput)
+    
 
     def clean_password2(self):
 
