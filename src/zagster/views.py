@@ -2,10 +2,13 @@ from django.shortcuts import render, redirect
 from django.http import HttpResponseRedirect
 from accounts.forms import RegisterForm
 from accounts.models import MyUser
+from .task_form import TaskForm
 
 def home(request):
+	taskform = TaskForm(request.POST or None)
 	context = {
 		"the_name": 6,
+		"taskform": taskform,
 	}
 	return render(request, "home.html", context) 
 
