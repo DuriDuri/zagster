@@ -5,6 +5,7 @@ from django.views.generic import TemplateView
 urlpatterns = patterns('',
     # Examples:
     url(r'^$', 'zagster.views.home'),
+    url(r'^register/', 'zagster.views.register'),
     # url(r'^blog/', include('blog.urls')),
 
     url(r'^admin/', include(admin.site.urls)),
