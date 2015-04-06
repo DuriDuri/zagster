@@ -19,8 +19,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '_^=v3zxo@y*!bvg$-_s)74mw)^2ym&2e0s&8mdbls3)ezm==$o'
 
+## Twilio credentials 
 TWILIO_ACCOUNT_SID = "AC5a3b3bd42351ca3b43bc281baf7a4f2d"
 TWILIO_AUTH_TOKEN = "747cba37eb310c39e44ea248e59d6eee"
+
+## Crispy forms
+CRISPY_TEMPLATE_PACK = "bootstrap3"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -41,6 +45,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django_twilio',
+    'crispy_forms',
     'accounts',
 )
 

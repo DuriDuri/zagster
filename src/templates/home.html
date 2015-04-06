@@ -1,4 +1,4 @@
-
+{% load crispy_forms_tags %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -71,7 +71,7 @@
                   </div>
                   <form method='POST' action='{{ action_value }}'>{% csrf_token %}
                   <div class="modal-body">
-                    {{ taskform.as_p }}
+                    {{ taskform|crispy }}
                   </div>
                   <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
