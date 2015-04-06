@@ -6,8 +6,9 @@ from .task_form import TaskForm
 
 def home(request):
 	taskform = TaskForm(request.POST or None)
+	if taskform.is_valid():
+		print 'Button Pressed'
 	context = {
-		"the_name": 6,
 		"taskform": taskform,
 	}
 	return render(request, "home.html", context) 
